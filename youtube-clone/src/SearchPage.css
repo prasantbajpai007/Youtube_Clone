@@ -1,0 +1,9 @@
+.searchPage{
+    flex:.8;
+}
+.searchPage_filter{
+  display:flex;
+  align-items: center;
+  color: #606060;
+  font-size:xx-small !important;
+}
